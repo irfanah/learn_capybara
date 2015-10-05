@@ -7,7 +7,6 @@ When /^I fill in "([^"]*)" with "([^"]*)"$/ do |field, value|
   click_button('search-btn')
 end
 
-
 Then /^I should see "([^"]*)"$/ do |text|
   page.should have_content(text)
 end
