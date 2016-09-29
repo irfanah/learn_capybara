@@ -1,10 +1,6 @@
 # learn_capybara
 lets sit and try capybara in 30 minutes
 
-please setup as per the steps in
-https://github.com/Flutterbee/tinyowl-web-automation/tree/pos
-
-OR
 
 Install ruby 2.0 or above
 RVM is ruby version manager. We can install it
@@ -27,8 +23,6 @@ $gem install bundler
 ```
 clone the repo and run bundle install ,all dependencies will be added
 ```bash
-$git clone git@github:Flutterbee/tinyowl-web-automation.git
-$cd tinyowl-web-automation
 $bundle install
 ```
 
